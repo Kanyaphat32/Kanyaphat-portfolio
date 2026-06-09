@@ -1,5 +1,5 @@
 # Kanyaphat-portfolio
-<b>Home<br> (/)
+<b>Home<br>
 ประวัติของเรา
 กิจกกรม
 หน้าที่  
